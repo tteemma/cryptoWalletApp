@@ -1,4 +1,4 @@
-
+![gif](https://static.news.bitcoin.com/wp-content/uploads/2019/01/bj2rNGhZ-ezgif-2-e18c3be26209.gif)
 
 # Crypto Portfolio Tracker
 
