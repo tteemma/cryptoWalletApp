@@ -1,4 +1,4 @@
-![Preview](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)![Preview](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+
 
 # Crypto Portfolio Tracker
 
@@ -71,4 +71,4 @@ Crypto Portfolio Tracker is a web application that allows users to track their c
 - User authentication for personalized portfolio tracking
 - Additional visualization tools for better analysis
 
-![Preview](https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif)
+![gif](https://static.news.bitcoin.com/wp-content/uploads/2019/01/UEEFPpIt-ezgif-2-c649e6fcd746.gif)
