@@ -20,8 +20,8 @@ Crypto Portfolio Tracker is a web application that allows users to track their c
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo.git
-   cd your-repo
+   git clone https://github.com/tteemma/cryptoWalletApp.git
+   cd cryptoWalletApp
    ```
 2. Install dependencies:
    ```sh
